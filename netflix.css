@@ -37,6 +37,7 @@ main{
 
 
 .paragrafo{
+  text-align: center;
   font-weight: bolder;
 }
 
@@ -82,7 +83,7 @@ main{
 }
 
 .adicionar{
-  margin-left: -1rem;
+  margin-left: 4.5rem;
 }
 
 .adicionar p{
